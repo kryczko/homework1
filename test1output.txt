@@ -1,0 +1,6 @@
+Code run by Kevin Ryczko
+Environment variable UWHPSC is ** not set **
+Environment variable MYHPSC is ** not set **
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
